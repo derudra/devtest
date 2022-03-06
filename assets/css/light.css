@@ -815,9 +815,9 @@ a.menu-link.active {
     height: 100%;
     top: 0;
     z-index: 1;
-    background-image: -moz-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(255, 69, 69) 100%);
-    background-image: -webkit-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(255, 69, 69) 100%);
-    background-image: -ms-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(255, 69, 69) 100%);
+    background-image: -moz-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(223, 153, 4) 100%);
+    background-image: -webkit-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(223, 153, 4) 100%);
+    background-image: -ms-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(223, 153, 4) 100%);
     opacity: .5;
 }
 
@@ -872,9 +872,9 @@ span.number {
    ========================================================================== */
 
 .about-overlay {
-    background-image: -moz-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(255, 69, 69) 100%);
-    background-image: -webkit-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(255, 69, 69) 100%);
-    background-image: -ms-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(255, 69, 69) 100%);
+    background-image: -moz-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(223, 153, 4) 100%);
+    background-image: -webkit-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(223, 153, 4) 100%);
+    background-image: -ms-linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(223, 153, 4) 100%);
     opacity: .5;
     height: 100%;
     width: 100%;
