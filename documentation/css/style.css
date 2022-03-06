@@ -50,7 +50,7 @@ body {
 a{
 	text-decoration:none;
 	cursor:pointer;
-	color:#f95343;	
+	color:#fbb03b;	
 }
 
 a:hover,a:focus,a:visited{
@@ -98,7 +98,7 @@ p{
 	width:250px;
 	height:100%;
 	padding:0px 20px;
-	border-right:2px solid #f95343;
+	border-right:2px solid #fbb03b;
 	z-index:10;
 }
 
@@ -275,7 +275,7 @@ ul,ol {
 #sidebar .menu-box .sticky-menu > ul > li > a:hover,
 #sidebar .menu-box .sticky-menu > ul > li.current > a,
 #sidebar .menu-box .sticky-menu > ul > li.current-menu-item > a{
-	color:#f95343;	
+	color:#fbb03b;	
 }
 
 #sidebar .copyright{
